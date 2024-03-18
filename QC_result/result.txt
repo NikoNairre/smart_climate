@@ -1,0 +1,39 @@
+1611
+pressure can't be negative
+
+1625
+pressure too high
+
+1628
+wind speed too high
+
+1634
+ground temp too high
+ground temp change too much
+
+1636
+ground temp change too much
+
+1639
+rain can't be negative
+
+1647
+wind speed too high
+hum exceed range
+relative hum change too much
+wind speed change too much
+
+1649
+relative hum change too much
+wind speed change too much
+
+1654
+temperature too low
+temp change too much
+
+1656
+temp change too much
+
+1659
+rain too much
+
